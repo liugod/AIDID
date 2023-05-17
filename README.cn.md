@@ -98,7 +98,7 @@ cd /app/api/ && composer install && mkdir /app/api/storage && chmod -R 0777 /app
 此镜像采用了不同的域名指向不同的目录，可以在本地host中将一下两个域名指向服务器的IP（即之前的SIP）。
 
 1. `notonlyfans.vip` → SIP （前端域名）
-1. `api.notonlyfans.vip` → SIP （API域名）
+1. `api.aichain.work` → SIP （API域名）
 
 此时访问即可进行测试。
 

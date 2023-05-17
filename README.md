@@ -100,7 +100,7 @@ cd /app/api/ && composer install && mkdir /app/api/storage && chmod -R 0777 /app
 This image uses different domains to point to different directories, you can point the following two domains to the server IP (i.e. SIP before) in localhost.
 
 1. `notonlyfans.vip` → SIP (front-end domain)
-1. `api.notonlyfans.vip` → SIP (API domain name)
+1. `api.aichain.work` → SIP (API domain name)
 
 Access at this point is ready for testing.
 
